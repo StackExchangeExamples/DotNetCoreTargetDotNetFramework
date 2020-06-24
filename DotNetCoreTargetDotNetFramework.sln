@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicFrameworkLibrary", "Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCoreLibrary", "BasicCoreLibrary\BasicCoreLibrary.csproj", "{324180CE-92FF-4176-9CBB-D83024E8AA56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCoreWebsite", "BasicCoreWebsite\BasicCoreWebsite.csproj", "{2DC80AFE-E2CF-496E-B40B-13640A217FF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{324180CE-92FF-4176-9CBB-D83024E8AA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{324180CE-92FF-4176-9CBB-D83024E8AA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{324180CE-92FF-4176-9CBB-D83024E8AA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC80AFE-E2CF-496E-B40B-13640A217FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC80AFE-E2CF-496E-B40B-13640A217FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC80AFE-E2CF-496E-B40B-13640A217FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC80AFE-E2CF-496E-B40B-13640A217FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
